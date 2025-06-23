@@ -1,0 +1,11 @@
+
+---
+
+# .gitignore
+
+```gitignore
+__pycache__/
+*.joblib
+*.pkl
+.DS_Store
+.env
